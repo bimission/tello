@@ -1,0 +1,4 @@
+pygame
+tello-python
+hidapi
+easytello
